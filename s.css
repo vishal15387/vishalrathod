@@ -1,0 +1,11 @@
+#a:hover{
+	color: pink;
+	text-shadow: 0.3px 0.3px white;
+
+}
+
+/*this is to move the list content in navbar you can use px-1 spaceutility as well */
+
+.navbar >li{
+	margin-left: 30px;
+}
